@@ -1,0 +1,7 @@
+nicegui
+requests
+cairosvg
+python-dotenv
+supabase
+weasyprint
+email-validator

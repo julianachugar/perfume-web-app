@@ -1,0 +1,12 @@
+# Entornos virtuales
+myenv/
+triple_c/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Otros
+.DS_Store
